@@ -1,6 +1,6 @@
 # COMP516Project
 Duke COMP Database project
 
-Schedule
+## Schedule
 
 10/3 Project Proposal DUE
